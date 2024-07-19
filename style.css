@@ -1,0 +1,24 @@
+body{
+text-align:center;
+background-color:#DBECF5;
+    width: 80%;
+    margin:auto;
+    color:#BEA6D1;
+
+}
+form{
+    display:flex;
+    flex-direction:column;
+    width:50%;
+    margin:auto;
+}
+button {
+    curser: pointer;
+}
+button:hover{
+    background-color:#9F81B6;
+
+}
+h2{
+    color:#E825DC;
+}
